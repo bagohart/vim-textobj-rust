@@ -1,5 +1,6 @@
 # vim-textobj-rust
-This vim plugin provides text objects for [Rust programming](https://www.rust-lang.org/).
+This vim plugin provides text objects for [Rust programming](https://www.rust-lang.org/).\
+Except for the `let` text object, all of them are backwards seeking.
 
 ## Installation
 Install with your favourite package manager or Vim's built-in package management system.
